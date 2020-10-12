@@ -25,7 +25,7 @@ Full library documentation is available at [https://logger.turtlepay.dev](https:
 ## Install
 
 ```sh
-yarn install @turtlepay/logger
+yarn add @turtlepay/logger
 ```
 
 ## Usage
