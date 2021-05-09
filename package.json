@@ -1,6 +1,6 @@
 {
   "name": "@turtlepay/logger",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "TurtlePay Logger Helper Library",
   "main": "dist/Logger.js",
   "types": "dist/Logger.d.ts",
